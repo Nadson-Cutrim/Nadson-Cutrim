@@ -6,7 +6,7 @@
 
 ---
 <div style="display: inline_block">
-  <img align="right" alt="Mario Codando" width="45%" hspace="50" src="https://github.com/user-attachments/assets/c0fe8cc3-0ca2-4133-bee8-8c55f80b063d" />
+  <img align="right" alt="Mario Codando" width="45%" hspace="50" src="https://github.com/Nadson-Cutrim/Nadson-Cutrim/issues/1" />
 
   <h1>Olá, eu sou o Nadson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
