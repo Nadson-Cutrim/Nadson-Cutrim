@@ -4,21 +4,18 @@
   </a>
 </div>
 
-<br>
-
+---
 <div style="display: inline_block">
-  <img align="right" alt="Mario Codando" width="45%" src="https://github.com/user-attachments/assets/c0fe8cc3-0ca2-4133-bee8-8c55f80b063d" />
+  <img align="right" alt="Mario Codando" width="45%" hspace="50" src="https://github.com/user-attachments/assets/c0fe8cc3-0ca2-4133-bee8-8c55f80b063d" />
 
   <h1>Olá, eu sou o Nadson! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em React.js, Next.js e no ecossistema JavaScript moderno.</p>
   
   <p>💻 Vislumbrado por transformar design em código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
-  
-  <p>🌱 Migrando da área da Educação (3+ anos) para o Desenvolvimento, com foco total em aprendizado contínuo.</p>
-  
-  <br>
 
+  <p>🌱 Migrando da área da Educação (4+ anos) para o Desenvolvimento, com foco total em aprendizado contínuo.</p>
+  
   <h3>Contate-me 🟡</h3>
   <div align="left">
     <a href="https://www.linkedin.com/in/nadson-cutrim" target="_blank">
