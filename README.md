@@ -4,12 +4,18 @@
   </a>
 </div>
 
+<<<<<<< HEAD
 ##
 
 <div style="display: inline_block">
   <img align="right" alt="Mario Codando" width="45%" hspace="50" src="/.github/workflows/assets/codar.gif">
 
 ### Olá, eu sou o Nadson! <img src="/.github/workflows/assets/bart.gif" width="30px">
+=======
+---
+<div style="display: inline_block">
+  <img align="right" alt="Mario Codando" width="45%" hspace="50" src="https://github.com/Nadson-Cutrim/Nadson-Cutrim/issues/1" />
+>>>>>>> 866f93ac3cb5ae8567803972267bf4c964fcba67
 
   <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em React.js, Next.js e no ecossistema JavaScript moderno.</p>
   
