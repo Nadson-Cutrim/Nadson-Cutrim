@@ -4,18 +4,12 @@
   </a>
 </div>
 
-<<<<<<< HEAD
 ##
 
 <div style="display: inline_block">
   <img align="right" alt="Mario Codando" width="45%" hspace="50" src="/.github/workflows/assets/codar.gif">
 
 ### Olá, eu sou o Nadson! <img src="/.github/workflows/assets/bart.gif" width="30px">
-=======
----
-<div style="display: inline_block">
-  <img align="right" alt="Mario Codando" width="45%" hspace="50" src="https://github.com/Nadson-Cutrim/Nadson-Cutrim/issues/1" />
->>>>>>> 866f93ac3cb5ae8567803972267bf4c964fcba67
 
   <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em React.js, Next.js e no ecossistema JavaScript moderno.</p>
   
@@ -45,16 +39,21 @@
   </a>
 
 </div>
+<br>
 
 ## 💻 Tech Stack & Estudos
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,gmail,nodejs,docker,git,npm,postman,vercel)](https://skillicons.dev)
 
+
 ## 🛠️ Ferramentas & Design
 
 [![My Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,windows,discord)](https://skillicons.dev)
 
-## 🚀Commits da lenda <img width="50px" align="right" src="/.github/workflows/assets/dev.gif">
+
+<h2>
+  🚀Commits da Lenda <img width="50px" height="50px" style="border-radius: 10%" src="/.github/workflows/assets/dev.gif">
+</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadson-Cutrim/Nadson-Cutrim/output/pacman-contribution-graph-dark.svg">
