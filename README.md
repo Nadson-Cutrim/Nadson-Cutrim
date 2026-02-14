@@ -9,7 +9,7 @@
 <div>
 <img align="right" alt="mario-codando" width="400" src="/.github/workflows/assets/codar.gif">
     <div>
-    <h3>Olá, eu sou o Nadson!</h3> <img src="/.github/workflows/assets/bart.gif" width="30px">
+    <h3>Olá, eu sou o Nadson!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em <br> React.js, Next.js e no ecossistema JavaScript moderno.</p>
     <p>💻 Vislumbrado por transformar design em <br>código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
     <p>🌱 Migrando da área da Educação (4+ anos) para o <br> Desenvolvimento,com foco total em aprendizado contínuo.</p>
