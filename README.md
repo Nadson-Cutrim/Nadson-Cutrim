@@ -54,10 +54,10 @@
   <table>
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nadson-Cutrim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nadson-Cutrim&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nadson-Cutrim&layout=compact&langs_count=7&theme=github_dark"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nadson-Cutrim&layout=compact&langs_count=7&theme=dark"/>
       </td>
     </tr>
     <tr>
