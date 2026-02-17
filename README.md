@@ -48,6 +48,25 @@
 
 [![My Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,windows,discord)](https://skillicons.dev)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nadson-Cutrim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nadson-Cutrim&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadson-Cutrim&theme=tokyonight" alt="Nadson-Cutrim" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2>
   🚀Commits da Lenda <img width="50px" height="50px" style="border-radius: 10%" src="/.github/workflows/assets/dev.gif">
