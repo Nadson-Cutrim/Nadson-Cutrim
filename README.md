@@ -69,7 +69,7 @@
 </div>
 
 <h2>
-  🚀Commits da Lenda <img width="50px" height="50px" style="border-radius: 10%" src="/.github/workflows/assets/dev.gif">
+  🚀Commits da Lenda <img width="50px" height="50px" style="border-radius: 10%" src="https://media1.tenor.com/m/tsINeUuAskgAAAAC/coraline-dad-type.gif">
 </h2>
 
 <picture>
