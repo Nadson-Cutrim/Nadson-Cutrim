@@ -54,15 +54,15 @@
   <table>
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nadson-Cutrim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nadson-Cutrim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nadson-Cutrim&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nadson-Cutrim&layout=compact&langs_count=7&theme=github_dark"/>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadson-Cutrim&theme=tokyonight" alt="Nadson-Cutrim" />
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadson-Cutrim&theme=github_dark" alt="Nadson-Cutrim" />
       </td>
     </tr>
   </table>
