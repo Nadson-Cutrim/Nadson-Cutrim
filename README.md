@@ -7,7 +7,7 @@
 ##
 
 <div>
-<img align="right" alt="mario-codando" width="400" src="/.github/workflows/assets/cat_mix.gif" style="border-radius: 2%;">
+<img align="right" alt="mario-codando" width="400" src="/.github/workflows/assets/codar.gif">
     <div>
     <h3>Olá, eu sou o Nadson!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em <br> React.js e no ecossistema JavaScript moderno.</p>
@@ -16,7 +16,7 @@
     </div>
 </div>
 
-<h2 style="display: flex;  align-itens:center";>Contate-me <img src="https://i.gifer.com/XOsX.gif" width="40px" height="30px" ></h3>
+## Contate-me 📬
 
 <div align="left">
 
@@ -39,20 +39,17 @@
 </div>
 <br>
 
-<h2 style="display: flex; align-itens:center">
-<img src="https://gifdb.com/images/high/green-check-laptop-screen-update-05pu23w2stbwkx7m.gif" width="40px" height="35px">Tech Stack & Estudos </h2>
+## 💻 Tech Stack & Estudos
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,gmail,nodejs,docker,git,npm,postman,vercel)](https://skillicons.dev)
 
-<div>
-<h2 style="display: flex; align-itens:center;">
-<img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-54-327_512.gif" width="35px" height="35px">Tech Stack & Estudos </h2>
-</div>
+
+## 🛠️ Ferramentas & Design
 
 [![My Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,windows,discord)](https://skillicons.dev)
 
-<h2 style="display: flex; align-itens:center"><img src="https://i.gifer.com/7l6K.gif" width="30px" height="30px" style="border-radius: 10%;">
-GitHub Stats </h2>
+## 📊 GitHub Stats
+
 <div align="center">
   <table>
     <tr>
@@ -71,9 +68,9 @@ GitHub Stats </h2>
   </table>
 </div>
 
-<h2 style="display: flex; align-itens:center">
-  <img width="30px" height="30px" style="border-radius: 10%;" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif">Commits da Lenda <img width="30px" height="30px" style="border-radius: 10%;" src="https://i.gifer.com/17xr.gif">
-</h2>
+
+ ## 🚀Commits da Lenda
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadson-Cutrim/Nadson-Cutrim/output/pacman-contribution-graph-dark.svg">
