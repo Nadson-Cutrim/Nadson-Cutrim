@@ -7,7 +7,7 @@
 ##
 
 <div>
-<img align="right" alt="mario-codando" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8zN2NzMXA5d3hsejRsdXZ0ODJmNWRxM244YTNtOTMzdnpwZHkyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif">
+<img align="right" alt="mario-codando" width="400" src="/.github/workflows/assets/cat_mix.gif" style="border-radius: 2%;">
     <div>
     <h3>Olá, eu sou o Nadson!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em <br> React.js e no ecossistema JavaScript moderno.</p>
@@ -16,7 +16,7 @@
     </div>
 </div>
 
-## Contate-me 📬
+<h2 style="display: flex;  align-itens:center";>Contate-me <img src="https://i.gifer.com/XOsX.gif" width="40px" height="30px" ></h3>
 
 <div align="left">
 
@@ -39,17 +39,20 @@
 </div>
 <br>
 
-## 💻 Tech Stack & Estudos
+<h2 style="display: flex; align-itens:center">
+<img src="https://gifdb.com/images/high/green-check-laptop-screen-update-05pu23w2stbwkx7m.gif" width="40px" height="35px">Tech Stack & Estudos </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,gmail,nodejs,docker,git,npm,postman,vercel)](https://skillicons.dev)
 
-
-## 🛠️ Ferramentas & Design
+<div>
+<h2 style="display: flex; align-itens:center;">
+<img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-54-327_512.gif" width="35px" height="35px">Tech Stack & Estudos </h2>
+</div>
 
 [![My Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,windows,discord)](https://skillicons.dev)
 
-## 📊 GitHub Stats
-
+<h2 style="display: flex; align-itens:center"><img src="https://i.gifer.com/7l6K.gif" width="30px" height="30px" style="border-radius: 10%;">
+GitHub Stats </h2>
 <div align="center">
   <table>
     <tr>
@@ -68,8 +71,8 @@
   </table>
 </div>
 
-<h2>
-  🚀Commits da Lenda <img width="50px" height="50px" style="border-radius: 10%" src="https://media1.tenor.com/m/tsINeUuAskgAAAAC/coraline-dad-type.gif">
+<h2 style="display: flex; align-itens:center">
+  <img width="30px" height="30px" style="border-radius: 10%;" src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif">Commits da Lenda <img width="30px" height="30px" style="border-radius: 10%;" src="https://i.gifer.com/17xr.gif">
 </h2>
 
 <picture>
