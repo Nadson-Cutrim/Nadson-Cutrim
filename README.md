@@ -7,9 +7,11 @@
 ##
 
 <div>
-<div align="rigth">
-<img alt="mario-codando" width="400px" src="/.github/workflows/assets/codar.gif">
-</div>
+<img alt="mario-codando" 
+width="400px" 
+src="/.github/workflows/assets/codar.gif"  
+align="right"
+/>
     <div align="left">
     <h3>Hello World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em  React.js e no ecossistema JavaScript moderno.</p>
