@@ -7,7 +7,7 @@
 ##
 
 <div>
-<img style="float: right;" alt="mario-codando" width="400" src="/.github/workflows/assets/codar.gif">
+<img style="float: right;" alt="mario-codando" width="40%" src="/.github/workflows/assets/codar.gif">
     <div>
     <h3>Hello World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em  React.js e no ecossistema JavaScript moderno.</p>
