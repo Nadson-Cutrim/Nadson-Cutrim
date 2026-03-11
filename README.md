@@ -45,8 +45,8 @@ align="right"
 
 ## 💻 Tech Stack & Estudos
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,gmail,nodejs,docker,git,npm,postman,vercel)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,gmail,nodejs,docker,git,npm,postman,vercel)](https://skillicons.dev)
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" style="background: #242938; border-radius: 20%" />
 
 ## 🛠️ Ferramentas & Design
 
