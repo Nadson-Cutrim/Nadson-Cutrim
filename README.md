@@ -14,7 +14,7 @@ align="right"
 />
     <div align="left">
     <h3>Hello World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
-    <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em React.js e no ecossistema JavaScript.</p>
+    <p>🚀 <strong>Desenvolvedor Web Jr.</strong> | Especializando-me em React.js e em JavaScript.</p>
     <p>💻 Vislumbrado por transformar design em código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
     <p>🌱 Migrando da área da Educação para a programação,com foco total em aprendizado contínuo.</p>
     </div>
