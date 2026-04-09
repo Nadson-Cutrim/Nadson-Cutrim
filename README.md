@@ -73,7 +73,7 @@ align="right"
 </div>
 
 
- ## 🚀Commits da Lenda
+ ## 🚀🔥Commits da Lenda
 
 
 <picture>
