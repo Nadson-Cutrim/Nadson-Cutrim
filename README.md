@@ -9,7 +9,7 @@
 <div>
 <img alt="mario-codando" 
 width="400px" 
-src="/.github/workflows/assets/codar.gif"  
+src="/.github/workflows/assets/monkey.webp"  
 align="right"
 />
     <div align="left">
