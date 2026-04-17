@@ -13,7 +13,7 @@ src="/.github/workflows/assets/monkey.webp"
 align="right"
 />
     <div align="left">
-    <h3>Hello World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
+    <h3>H3llo World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Dev. Web Jr.</strong> | Especializando-me em React.js e em JavaScript.</p>
     <p>🖥️ Vislumbrado por transformar design em código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
     <p>🌱 Migrando da área da educação para a programação,com foco total em aprendizado contínuo.</p>
