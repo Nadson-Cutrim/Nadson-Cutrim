@@ -52,7 +52,7 @@ align="right"
 
 [![My Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,windows,discord)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## 📊 GitHub St4tS
 
 <div align="center">
   <table>
