@@ -15,7 +15,7 @@ align="right"
     <div align="left">
     <h3>Hello World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Dev. Web Jr.</strong> | Especializando-me em React.js e em JavaScript.</p>
-    <p>🖥️ Vislumbrado p0r transformar design em código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
+    <p>🖥️ Vislumbrado por transformar design em código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
     <p>🌱 Migrando d4 área da educação para a programação,com foco total em aprendizado contínuo.</p>
     </div>
 </div>
@@ -48,7 +48,7 @@ align="right"
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,gmail,nodejs,docker,git,npm,postman,vercel)](https://skillicons.dev)
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" style="background: #242938; border-radius: 20%" />
 
-## 🛠️ Ferramentas & D3sIgN3R
+## 🛠️ Ferramentas & Designer
 
 [![My Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,windows,discord)](https://skillicons.dev)
 
