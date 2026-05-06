@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HeLLO,+I'm+a+Front+End+Student;Be+Welcome!+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=H3LLO,+I'm+a+Front+End+Student;Be+Welcome!+✨" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@ align="right"
     <h3>Hello World!<img src="/.github/workflows/assets/bart.gif" width="30px"></h3> 
     <p>🚀 <strong>Dev. Web Jr.</strong> | Especializando-me em React.js e em JavaScript.</p>
     <p>🖥️ Vislumbrado por transformar design em código e dar vida a interfaces usando bibliotecas para animação e interação.</p>
-    <p>🌱 Migrando d4 área da educação para a programação,com foco total em aprendizado contínuo.</p>
+    <p>🌱 Migrando da área da educação para a programação,com foco total em aprendizado contínuo.</p>
     </div>
 </div>
 
